@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Coding Solutions
+# PPS ASSIGNMENT 2
 
 ![Total Solved](https://img.shields.io/badge/Total_Solved-5-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
